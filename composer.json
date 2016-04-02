@@ -1,11 +1,11 @@
 {
-    "name": "pingpong/auth2",
+    "name": "jason2/auth2",
     "description": "Laravel 4 - Multi Auth With Password Reminder",
-    "keywords": ["auth", "multiauth", "auth2", "laravel", "pingpong"],
+    "keywords": ["auth", "multiauth", "auth2", "laravel", "jason2"],
     "license": "MIT",
     "authors": [
         {
-            "name": "PiNGPONG LABS",
+            "name": "jason2 LABS",
             "email": "pingpong.labs@gmail.com"
         }
     ],
